@@ -21,3 +21,16 @@ while True:
     if palabra == "chupacabra": 
         break
 print("¡Has dejado el bucle con éxito!")
+
+'''Otra solución'''
+
+while True:
+    palabraSecreta = input("Ingrese una palabra: ")
+    if palabraSecreta == "chupacabra":
+        print("¡Has dejado el bucle con éxito!")
+        break
+    
+
+    
+
+
